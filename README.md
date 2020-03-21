@@ -1,5 +1,8 @@
 # Dokumentasi API
 
+Example
+http://webservice.postku.org/tugas3/
+
 ## Get Data
 GET http://webservice.postku.org/tugas3/rest/
 
